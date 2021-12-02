@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=BinarySearch
+comment1.params=a\ x
+comment1.target=int\ search(java.lang.Comparable[],\ java.lang.Comparable)
+comment1.text=\ Sucht\ mittels\ bin\u00E4rer\ Suche\ das\ Element\ x\ in\ dem\ Array\ a\ und\r\n\ gibt\ bei\ Erfolg\ den\ Index\ i\ mit\ a[i].compareTo(x)\ \=\=\ 0\r\n\ zur\u00FCck,\ ansonsten\ -1.\r\n
+numComments=2
